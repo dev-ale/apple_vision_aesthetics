@@ -1,0 +1,22 @@
+name: apple_vision_aesthetics_example
+description: Demonstrates how to use the apple_vision_aesthetics plugin.
+publish_to: 'none'
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  apple_vision_aesthetics:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
