@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 A Flutter plugin wrapping Apple's Vision framework CalculateImageAestheticsScoresRequest
 to score image quality, detect blur, and identify utility images. iOS 18+ only.
                        DESC
-  s.homepage         = 'https://github.com/AlejandroApps/apple_vision_aesthetics'
+  s.homepage         = 'https://github.com/dev-ale/apple_vision_aesthetics'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Alejandro' => 'dev@example.com' }
   s.source           = { :path => '.' }

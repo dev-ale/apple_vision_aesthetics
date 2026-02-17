@@ -3,7 +3,7 @@
 /// detect blur, and identify utility images.
 ///
 /// iOS 18.0+ required. Returns [UnsupportedError] on other platforms.
-library apple_vision_aesthetics;
+library;
 
 export 'src/apple_vision_aesthetics_method_channel.dart';
 export 'src/apple_vision_aesthetics_platform_interface.dart';
