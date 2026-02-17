@@ -3,7 +3,7 @@ description: >-
   Flutter plugin wrapping Apple Vision CalculateImageAestheticsScoresRequest
   for image quality scoring, blur detection, and utility image identification.
   iOS 18+ only.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/dev-ale/apple_vision_aesthetics
 repository: https://github.com/dev-ale/apple_vision_aesthetics
 issue_tracker: https://github.com/dev-ale/apple_vision_aesthetics/issues

@@ -1,3 +1,9 @@
+## 1.0.1
+
+- Add Swift Package Manager support
+- Add pub.dev badges to README
+- Shorten package description to meet pub.dev requirements
+
 ## 1.0.0
 
 - Initial release
