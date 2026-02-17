@@ -1,8 +1,7 @@
 name: apple_vision_aesthetics
 description: >-
-  A Flutter plugin wrapping Apple's Vision framework
-  CalculateImageAestheticsScoresRequest to score image quality,
-  detect blur, and identify utility images (screenshots, receipts).
+  Flutter plugin wrapping Apple Vision CalculateImageAestheticsScoresRequest
+  for image quality scoring, blur detection, and utility image identification.
   iOS 18+ only.
 version: 1.0.0
 homepage: https://github.com/dev-ale/apple_vision_aesthetics

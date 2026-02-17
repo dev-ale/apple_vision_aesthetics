@@ -8,3 +8,5 @@ pubspec.lock
 *.swp
 .flutter-plugins
 .flutter-plugins-dependencies
+.build/
+.swiftpm/

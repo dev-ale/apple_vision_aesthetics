@@ -10,7 +10,7 @@ to score image quality, detect blur, and identify utility images. iOS 18+ only.
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Alejandro Garcia' => 'ale.iphone@gmail.com' }
   s.source           = { :path => '.' }
-  s.source_files     = 'Classes/**/*'
+  s.source_files     = 'apple_vision_aesthetics/Sources/apple_vision_aesthetics/**/*.swift'
   s.dependency 'Flutter'
   s.platform         = :ios, '18.0'
   s.swift_version    = '5.9'
