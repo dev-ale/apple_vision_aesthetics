@@ -1,5 +1,10 @@
 # apple_vision_aesthetics
 
+[![pub package](https://img.shields.io/pub/v/apple_vision_aesthetics.svg)](https://pub.dev/packages/apple_vision_aesthetics)
+[![pub points](https://img.shields.io/pub/points/apple_vision_aesthetics)](https://pub.dev/packages/apple_vision_aesthetics/score)
+[![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![platform: ios](https://img.shields.io/badge/platform-iOS%2018%2B-orange.svg)](https://developer.apple.com/documentation/vision/calculateimageaestheticsscoresrequest)
+
 A Flutter plugin wrapping Apple's Vision framework **`CalculateImageAestheticsScoresRequest`** to score image quality, detect blur, and identify utility images (screenshots, receipts, documents).
 
 **iOS 18.0+ only.** Uses the modern Swift concurrency Vision API introduced at WWDC24.
@@ -26,6 +31,8 @@ The scoring model considers blur, exposure, color balance, composition, and subj
 > **Note:** `CalculateImageAestheticsScoresRequest` does **not** work on the iOS Simulator. You must test on a physical device.
 
 ## Installation
+
+Add it from [pub.dev](https://pub.dev/packages/apple_vision_aesthetics):
 
 ```yaml
 dependencies:
