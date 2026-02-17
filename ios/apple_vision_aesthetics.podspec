@@ -8,7 +8,7 @@ to score image quality, detect blur, and identify utility images. iOS 18+ only.
                        DESC
   s.homepage         = 'https://github.com/dev-ale/apple_vision_aesthetics'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Alejandro' => 'dev@example.com' }
+  s.author           = { 'Alejandro Garcia' => 'ale.iphone@gmail.com' }
   s.source           = { :path => '.' }
   s.source_files     = 'Classes/**/*'
   s.dependency 'Flutter'
